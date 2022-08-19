@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\freed\Desktop\HomeworkCS_7\Task1\obj\Debug\net6.0\ref\Task1.dll
